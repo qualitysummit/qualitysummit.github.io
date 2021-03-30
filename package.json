@@ -1,0 +1,27 @@
+{
+  "name": "qualitysummit.github.io",
+  "version": "1.0.0",
+  "description": "quality summit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch assets/sass -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qualitysummit/qualitysummit.github.io.git"
+  },
+  "keywords": [
+    "quality",
+    "summit"
+  ],
+  "author": "lauren christianson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qualitysummit/qualitysummit.github.io/issues"
+  },
+  "homepage": "https://github.com/qualitysummit/qualitysummit.github.io#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
